@@ -1,0 +1,104 @@
+== Changelog ==
+= 1.2.6 =
+* update in slider and blog section.
+
+= 1.2.5 =
+* Updated the theme URI.
+
+= 1.2.4 =
+* Footer design issue fixed
+
+= 1.2.3 =
+* Removed deprecated tags
+* Minor bug fixing
+* Compatibility 4.7.1 updated
+* Post detail re-arranged
+
+= 1.2.2 =
+* Number of slider increased
+* Description edited
+* Screenshot changed
+
+= 1.2.1 =
+* Footer widget added.
+
+= 1.2.0 =
+* Minor issues fixing 
+* Remove deprecated tags.
+
+= 1.1.9 =
+* Mobile menu issue fixed
+
+= 1.1.8 =
+* Added fix image size for slider
+* Compatible for wp 4.5
+* Minor CSS fixing
+
+= 1.1.7 =
+* Added link on icons of service section, all section titles and client's logos.
+* Minor CSS fixing
+
+= 1.1.6 =
+* Theme URL changed
+* Bug fixed in Front Page
+
+= 1.1.5 =
+* Theme URL changed
+* Upgrade to pro link added
+
+= 1.1.4 =
+* Bxslider issue fixed
+* Menu css small issues fixed
+* Fontawesome updated to 4.4.0
+* Customizer
+    * Customize control title change from 'Archive/Blog/Single/Page/Post' change to 'Default Layout'
+    * Customize section title change from 'Advanced' to 'Custom CSS'
+    * Customizer Site Logo moved to section 'title_tagline' as it is Site Identity
+    * Customizer section 'Important links' added
+
+= 1.1.3 =
+* 'the_content' filter hook replaced by wp_kses_post functions
+* Footer esc_url('http://evisionthemes.com/') changed to http://evisionthemes.com/
+* The back-compatible title tags are removed form inc/extras.php
+* Description modified
+
+= 1.1.2 =
+* Screenshot updated
+* Minor CSS fixing
+
+= 1.1.1 =
+* Theme will be compatible with WordPress.org language packs
+* screenshot.png change
+* Fixed minor styling issues
+* Fixed minor js issues
+
+= 1.1.0.0 =
+* Major change
+* Changed all possible content from customizer to pages to minimize the data loss while theme changed.
+* Fixed data validation and escaping
+* Made translation ready for 'alt','title', etc HTML tags
+* Made translation ready for 'Powered by' and other translation text
+* Prefix changed to 'evision_corporate' from just 'evision'
+* Changed wp_register_script handler to evision-corporate-bxslider-js from 'jquery.bxslider'
+* Changed text domain to 'evision-corporate' from 'evision_corporate'
+* Added license information for theme as well as other resources used in theme
+* Bug fixes
+
+= 1.0.0.4 =
+* Bug fixes
+* Fixed minor styling issues
+
+= 1.0.0.3 =
+* Bug fixes
+* Fixed minor styling issues
+
+= 1.0.0.2 =
+* Bug fixes
+* Fixed minor styling issues
+
+= 1.0.0.1 =
+* Bug fixes
+* Fixed minor styling issues
+
+= 1.0.0 =
+* Initial submission to WordPress repository
